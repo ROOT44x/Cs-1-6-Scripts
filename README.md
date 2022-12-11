@@ -1,6 +1,6 @@
 # Cs-1-6-Scripts
 a collection of Counter Strike 1.6 Scripts
-ROOT44x
+
 
 -FPS Viewer Alias - This toggles your FPS on and off.
 -Nameswap Alias - This alias changes your name between two names with a single keystroke
